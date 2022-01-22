@@ -8,7 +8,7 @@
 
 > react project using the firebase api for testing and proving of concept
 
-### ✨ [Demo](react-firebase.vercel.app)
+### ✨ [Demo](https://react-firebase-drab.vercel.app/)
 
 ## Install
 
@@ -26,13 +26,6 @@ npm run start
 
 👤 **Fernando Belotto**
 
-* Website: fernandobelotto.dev
+* Website: [https://fernandobelotto.dev](https://fernandobelotto.dev)
 * Github: [@fernandobelotto](https://github.com/fernandobelotto)
 * LinkedIn: [@fernandobelotto](https://linkedin.com/in/fernandobelotto)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
